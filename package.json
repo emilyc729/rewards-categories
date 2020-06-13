@@ -2,7 +2,7 @@
   "name": "miles-take-home",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://emilyc729.github.io/rewards-categories/",
+  "homepage": "http://emilyc729.github.io/rewards-categories",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
