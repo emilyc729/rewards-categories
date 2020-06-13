@@ -1,0 +1,18 @@
+.Reward-box {
+    border: 1px solid black;
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+    margin-top: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.deleteButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    font-size: .20rem;
+    border: none;
+}

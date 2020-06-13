@@ -1,0 +1,71 @@
+.row {
+    margin-bottom: 10px;
+}
+
+div[class^="col-"] {
+    border-right: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.c-name {
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
+
+.Reward-box {
+    border: 1px solid black;
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+    margin-top: 10px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.deleteButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    font-size: .20rem;
+    border: none;
+}
+
+
+.overlap {
+    margin-top: 24px;
+    z-index: 1;
+    position: absolute;
+    border-style: none !important;
+}
+
+.reveal  {
+    z-index: 3;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    flex-wrap: wrap;
+
+}
+
+.each-box {
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+    background-color: aqua;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.no-style {
+    border-style: none;
+    color: none;
+}
+
+.hide {
+    visibility: hidden;
+}
+
