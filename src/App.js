@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">Miles Take Home</header>
+        <header className="App-header">Rewards and Categories</header>
         <Table/>
       </div>
     );
